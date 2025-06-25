@@ -1,4 +1,4 @@
-![I am shurokkha_websites](https://github.com/shurokkha_websites/shurokkha_websites/blob/main/code.png)
+![I am shurokkha_websites](https://github.com/royalprogrammer999/shurokkha_websites/blob/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Saiem Hossain(Royal)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
